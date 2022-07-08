@@ -49,7 +49,7 @@ if(document.addEventListener ){
    htFallbacks={
    };
 
-  aLoader = [
+   aLoader = [
       { load: "https://molbuk.ua/jquery-2.0.3.min.js"},
       { load: "https://molbuk.ua/edge.4.0.0.min.js"},
       { load: "index_edge.js"},
